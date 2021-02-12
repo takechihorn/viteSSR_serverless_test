@@ -1,0 +1,48 @@
+{
+  "/Users/takeru/vite-ssr-playground/vite/packages/playground/ssr-vue/node_modules/@vue/shared/dist/shared.esm-bundler.js": [
+    "/assets/vendor.987337bb.js"
+  ],
+  "/Users/takeru/vite-ssr-playground/vite/packages/playground/ssr-vue/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
+    "/assets/vendor.987337bb.js"
+  ],
+  "/Users/takeru/vite-ssr-playground/vite/packages/playground/ssr-vue/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
+    "/assets/vendor.987337bb.js"
+  ],
+  "/Users/takeru/vite-ssr-playground/vite/packages/playground/ssr-vue/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
+    "/assets/vendor.987337bb.js"
+  ],
+  "/Users/takeru/vite-ssr-playground/vite/packages/playground/ssr-vue/node_modules/vue/dist/vue.runtime.esm-bundler.js": [
+    "/assets/vendor.987337bb.js"
+  ],
+  "/Users/takeru/vite-ssr-playground/vite/packages/playground/ssr-vue/node_modules/vue-router/dist/vue-router.esm-bundler.js": [
+    "/assets/vendor.987337bb.js"
+  ],
+  "/Users/takeru/vite-ssr-playground/vite/packages/playground/ssr-vue/src/pages/About.vue?vue&type=style&index=0&scoped=true&lang.css": [
+    "/assets/About.fb932c59.js",
+    "/assets/About.4877ab80.css"
+  ],
+  "/Users/takeru/vite-ssr-playground/vite/packages/playground/ssr-vue/src/pages/About.vue": [
+    "/assets/About.fb932c59.js",
+    "/assets/About.4877ab80.css"
+  ],
+  "/Users/takeru/vite-ssr-playground/vite/packages/playground/ssr-vue/src/assets/logo.png": [
+    "/assets/Home.2792d44c.js",
+    "/assets/Home.10114a92.css"
+  ],
+  "/Users/takeru/vite-ssr-playground/vite/packages/playground/ssr-vue/src/pages/Home.vue?vue&type=style&index=0&scoped=true&lang.css": [
+    "/assets/Home.2792d44c.js",
+    "/assets/Home.10114a92.css"
+  ],
+  "/Users/takeru/vite-ssr-playground/vite/packages/playground/ssr-vue/src/pages/Home.vue": [
+    "/assets/Home.2792d44c.js",
+    "/assets/Home.10114a92.css"
+  ],
+  "/Users/takeru/vite-ssr-playground/vite/packages/playground/ssr-vue/src/components/foo.css": [
+    "/assets/Foo.a28ea4ba.js",
+    "/assets/Foo.6ac8e7a5.css"
+  ],
+  "/Users/takeru/vite-ssr-playground/vite/packages/playground/ssr-vue/src/components/Foo.jsx": [
+    "/assets/Foo.a28ea4ba.js",
+    "/assets/Foo.6ac8e7a5.css"
+  ]
+}
